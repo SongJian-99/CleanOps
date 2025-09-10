@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CleanOps
+
+server:
+  port: 6666
