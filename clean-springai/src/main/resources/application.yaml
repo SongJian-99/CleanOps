@@ -1,0 +1,10 @@
+server:
+  port: 6660
+
+spring:
+  application:
+    name: clean-spring-ai
+  ai:
+    deepseek:
+      api-key: sk-60ab04692d544c9b91d2986a29518926
+      base-url: https://api.deepseek.ai/v1
